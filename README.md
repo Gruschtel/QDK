@@ -1,4 +1,4 @@
-# Einstieg in die Quantenprogrammierung mittels Microsoft Quantum Development (QDK)
+# Einstieg in die Quantenprogrammierung mittels Microsoft Quantum Development Kit (QDK)
 
 Die folgenden Notebooks wurde im Rahmen der Vorlesung "Quantum Computing and Information  (QCI) des Masters Studiengangs Informatik an der Hochschule Kaiserslautern - University of Applied Sciences, Campus Zweibrücken erstellt.<br>
 <img src="https://user-images.githubusercontent.com/24352711/60571868-a1554d00-9d74-11e9-9756-7f3cd473cdfe.png" alt="hs logo" width="30%"/><br>
