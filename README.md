@@ -28,7 +28,7 @@ Dieses Notebook befasst sich mit den grundlegenden Konzepten, die zum Erstellen 
 #### Deutsch-Jozsa-Algorithmus.ipynb
 Dieses Notebook befasst sich mit einer Umsetzung des Deutsch-Jozsa Algorithmus in der Programmiersprache Q#.
 
-## Versioning
+## Versionierung
 * 1.0: Veröffentlichung
 
 ## Authors
