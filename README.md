@@ -8,6 +8,20 @@ https://www.hs-kl.de/
 
 Das Quantum Development Kit (QDK) ermöglicht das Entwickeln von Quanten Algorithmen sowie Programmen. Die genutzte Programmiersprache Q# ist eine skalierbare, domänenspezifische Programmiersprache mit mehreren Paradigmen für das Programmieren von Quantum Algorithmen.
 
+## Voraussetzungen
+
+Hier sind die Schritte aufgeführt, die Sie zum Erstellen eigener Q#-Notebooks ausführen müssen. IQ# ist eine hauptsächlich von Jupyter und Python genutzte Erweiterung für das .NET Core SDK, welche die Kernfunktionen für das Kompilieren und Simulieren von Q#-Vorgängen bereitstellt.
+
+* [Python 3.6](https://www.python.org/downloads/) oder höher 
+* [Jupyter Notebook](https://jupyter.org/install)
+* [.NET Core SDK](https://dotnet.microsoft.com/download) 3.0 oder höher
+
+Bevor Q#-Code ausgeführt werden kann, muss das Jupyter Notebook zunächst eine passende Umgebung bereitstellen. Hierzu muss nach Installation des .NET Core SDKs die Eingabeaufforderung geöffnet werden und die folgende Befehle ausgeführt werden. Achtung: Nach jeder Ausführung, muss die Eingabeaufforderung geschlossen und neu gestartet werden, damit die Änderungen am System erkannt werden!
+
+* dotnet tool install -g Microsoft.Quantum.IQSharp
+* dotnet iqsharp install
+
+## Notebooks
 #### Intro_QDK.ipynb
 Dieses Notebook befasst sich mit den grundlegenden Konzepten, die zum Erstellen von Quantenprogrammen in Q# benötigt werden.
 
