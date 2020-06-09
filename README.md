@@ -33,5 +33,5 @@ Dieses Notebook befasst sich mit einer Umsetzung des Deutsch-Jozsa Algorithmus i
 ## Versionierung
 * 1.0: Veröffentlichung
 
-## Authors
+## Author
    Eric Gustav Werner – [GitHub Profil](https://github.com/Gruschtel)
